@@ -1,0 +1,1 @@
+Swift Design: https://github.com/apple/swift/blob/main/docs/ErrorHandlingRationale.rst
