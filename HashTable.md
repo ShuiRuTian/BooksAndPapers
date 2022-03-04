@@ -1,0 +1,2 @@
+why-do-hash-functions-use-prime-numbers: https://computinglife.wordpress.com/2008/11/20/why-do-hash-functions-use-prime-numbers/
+Fibonacci Hashing: https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/
