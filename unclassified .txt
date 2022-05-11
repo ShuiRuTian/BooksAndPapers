@@ -1,0 +1,5 @@
+https://www.robertjacobson.dev/designing-a-pratt-parser-generator
+https://www.engr.mun.ca/~theo/Misc/pratt_parsing.htm
+http://hardmath123.github.io/earley.html
+https://nearley.js.org/docs/how-to-grammar-good
+https://doc.akka.io/docs/akka/current/typed/guide/tutorial_1.html
