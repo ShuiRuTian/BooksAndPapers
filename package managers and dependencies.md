@@ -1,0 +1,1 @@
+C#: nuget, https://learn.microsoft.com/en-us/nuget/concepts/dependency-resolution
