@@ -4,3 +4,9 @@ http://hardmath123.github.io/earley.html
 https://nearley.js.org/docs/how-to-grammar-good
 https://doc.akka.io/docs/akka/current/typed/guide/tutorial_1.html
 https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/
+
+https://users.rust-lang.org/t/soft-question-scaling-codebase-50k-loc-500k-loc/104129/13
+
+https://unixism.net/loti/async_intro.html
+
+https://serverfault.com/questions/238417/are-networks-now-faster-than-disks
